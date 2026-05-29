@@ -63,14 +63,14 @@ The objective of this project is to identify fraudulent credit card transactions
 
 The model achieved high classification performance and successfully detected fraudulent transactions while handling a large-scale transaction dataset.
 
-# Technologies Used
-Python
-Google Colab
-Pandas
-NumPy
-Scikit-learn
-TensorFlow / Keras
-Matplotlib
+### Technologies Used
+* Python
+* Google Colab
+* Pandas
+* NumPy
+* Scikit-learn
+* TensorFlow / Keras
+* Matplotlib
 # Repository Structure
 ```text
 CodSoft/
