@@ -8,8 +8,8 @@ This repository contains three machine learning projects developed using Python,
 The goal of this project is to predict the genre of a movie based on its plot summary. Natural Language Processing (NLP) techniques are used to convert textual data into numerical features, which are then used to train a machine learning classifier.
 
 # Techniques Used
-TF-IDF Vectorization
-Linear Support Vector Machine (SVM)
+# TF-IDF Vectorization
+# Linear Support Vector Machine (SVM)
 Text Preprocessing
 Workflow
 Load movie plot dataset.
