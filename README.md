@@ -89,14 +89,8 @@ CodSoft/
 │
 └── README.md
 ```
-# Key Learning Outcomes
-Applied Natural Language Processing techniques for text classification.
-Implemented character-level text generation using deep learning models.
-Built a fraud detection system using supervised machine learning algorithms.
-Worked with large datasets, preprocessing techniques, model training, and performance evaluation.
-Gained practical experience with Scikit-learn, TensorFlow, and Google Colab.
 
 # Author
 
-Janhavi Sakore
-Artificial Intelligence & Machine Learning (AIML) Student
+**Janhavi Sakore**
+ Artificial Intelligence & Machine Learning (AIML) Student
