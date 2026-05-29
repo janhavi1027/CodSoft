@@ -6,6 +6,8 @@ This repository contains three machine learning projects developed using Python,
 ### Overview
 
 The goal of this project is to predict the genre of a movie based on its plot summary. Natural Language Processing (NLP) techniques are used to convert textual data into numerical features, which are then used to train a machine learning classifier.
+### Dataset (
+Dataset: [Movie Genre Classification] (https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 
 ### Techniques Used
 * TF-IDF Vectorization
@@ -46,6 +48,8 @@ The model successfully learned Shakespeare-style writing patterns and generated 
 ### Overview
 
 The objective of this project is to identify fraudulent credit card transactions using machine learning techniques. The model analyzes transaction-related features and classifies transactions as legitimate or fraudulent.
+### Dataset
+Dataset: [Credit Card Fraud Detection] (https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 ### Techniques Used
 * Data Preprocessing
