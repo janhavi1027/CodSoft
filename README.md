@@ -92,8 +92,3 @@ CodSoft/
 │
 └── README.md
 ```
-
-# Author
-
-**Janhavi Sakore**
- Artificial Intelligence & Machine Learning (AIML) Student
